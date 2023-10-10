@@ -1,0 +1,4 @@
+LogPath: "./"
+ReceiveUdp:
+  Address: "0.0.0.0"
+  Port: 32000
